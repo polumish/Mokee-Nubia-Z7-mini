@@ -1,0 +1,16 @@
+version: 2.1.2-BZ
+apkFileName: Provision.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '19'
+packageInfo:
+  rename-manifest-package: com.android.provision
+  forced-package-id: '0'
+versionInfo:
+  versionCode: '19'
+  versionName: 4.4.4-0042f01ca0
+compressionType: false
